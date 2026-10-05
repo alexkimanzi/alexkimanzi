@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on **School Management System, Personal Portfolio Website, Online Services**  
 - 🌱 I’m currently learning **Cloud Computing, Advanced Cybersecurity, AI & Machine Learning, New Frameworks**  
-- 📫 How to reach me **alexkim123@gmail.com**
+- 📫 How to reach me **alexkimmbuvi123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
